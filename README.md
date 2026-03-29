@@ -1,19 +1,55 @@
-# Digital Literacy Project
+# Digital Literacy Portfolio
 
-Name: Jaiyansh Dhaulakhandi  
-Reg No: 25BCY10268 
+## 👤 Student Details
+- Name: Jaiyansh Dhaulakhandi
+- Course: BTech CSE (Cyber Security & Digital Forensics)
+- University: VIT Bhopal University
+- Year: 1st Year
 
-Course: CSE0001 - Digital Literacy  
+---
 
-## Project Overview
-This project demonstrates my understanding of digital literacy through practical tasks including infographic design, digital portfolio creation, platform exploration, professional communication, and cybercrime awareness.
+## 📌 Project Overview
+This project is part of the Digital Literacy course. It focuses on building awareness about digital tools, online safety, professional communication, and cybercrime prevention.
 
-## Tasks Covered
-- Task 1: Infographic on Digital Literacy
-- Task 2: Digital Portfolio
-- Task 3: Coding & Google Forms
-- Task 4: Email Etiquette
-- Task 5: Cybercrime Awareness
+---
+
+## 📂 Tasks Completed
+
+### 🔹 Task 1 – Digital Literacy Infographic
+Created an infographic using Canva to explain digital literacy, safe internet practices, and professional online presence.
+
+---
+
+### 🔹 Task 2 – Digital Portfolio
+Created and updated profiles on:
+- GitHub
+- LinkedIn
+- Cisco Networking Academy
+
+Screenshots are included in the task-2-portfolio folder.
+
+---
+
+### 🔹 Task 3 – Platforms
+- Completed a beginner coding problem on HackerRank
+- Created a Google Form quiz on Digital Literacy
 
 ## 📊 Google Form
-Digital Literacy Quiz: https://forms.gle/jMBEwnxH6XhKt9Fd6
+Digital Literacy Quiz: [PASTE YOUR FORM LINK HERE]
+
+---
+
+### 🔹 Task 4 – Email Etiquette
+- Drafted two professional emails
+- Created a social media do’s and don’ts checklist
+
+---
+
+### 🔹 Task 5 – Cybercrime Awareness
+- Wrote a detailed case study on phishing attacks
+- Created a prevention checklist for online safety
+
+---
+
+## 🔗 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/jaiyansh-dhaulakhandi-0ba80b37a
