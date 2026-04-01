@@ -53,4 +53,5 @@ Digital Literacy Quiz: https://forms.gle/6tWv3gNGwnK8jW9n7
 ---
 
 ## 🔗 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/jaiyansh-dhaulakhandi-0ba80b37a
+- LinkedIn: https://www.linkedin.com/in/jaiyansh-4n6
+- 
